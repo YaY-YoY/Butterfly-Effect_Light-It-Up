@@ -45,6 +45,7 @@ The project emphasizes hardware interaction, game logic, and real-time response.
   
 ## Demo Video
 You can see the game in action:
+
 https://github.com/YaY-YoY/Butterfly-Effect_Light-It-Up/raw/refs/heads/main/demo.mp4
 
 ## How to Run
